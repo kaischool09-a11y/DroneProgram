@@ -65,6 +65,7 @@ namespace DroneProgram
 
                 };
             }
+            //jhhjhjhj
             if (this.Status == "Grounded")
             {
 
